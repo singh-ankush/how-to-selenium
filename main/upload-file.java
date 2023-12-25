@@ -8,6 +8,13 @@ import org.openqa.selenium.chrome.ChromeDriver;
  */
 public class fixed_to_static {
     public static void main(String[] args) {
+        String a = "//website with shadow-root";
+        
+        WebDriverManager.chromedriver().setup();
+        
+        WebDriver driver = new ChromeDriver();
+        
+        driver.get(a);
 
 WebElement file = driver.findElement(By.xpath("//path to your web element"));
 
