@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
  *
  * @author Ankush Singh
  */
-public class fixed_to_static {
+public class upload_file {
     public static void main(String[] args) {
         String a = "//website with shadow-root";
         
