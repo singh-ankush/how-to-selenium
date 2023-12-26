@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
  *
  * @author Ankush Singh
  */
-public class fixed_to_static {
+public class easy_driver {
     public static void main(String[] args) {
         String a = "//website you wish to open";
         
