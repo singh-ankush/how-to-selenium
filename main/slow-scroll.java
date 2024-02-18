@@ -1,3 +1,5 @@
+//this is a code to scroll a page slowly or based on the input speed you provide. this can be helpful in loading lengthy pages.
+
 String a = "//page u want to scroll";
 
 //this is an easy way to open chrome as a driver where you dont require any reference to the webdriver
