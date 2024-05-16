@@ -14,6 +14,6 @@ public class Element_counter {
 	}
 	
 	public static void main(String[] args) {
-		elm_con("//use the location of element here");
+		System.out.println(elm_con("//use the location of element here"));
 	}
 }
